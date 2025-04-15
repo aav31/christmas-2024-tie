@@ -12,7 +12,11 @@ For Christmas 2024, the theme was ties, which my cousin foolishly thought would 
 
 Want to hear it for yourself? Click the gif below to experience the crustacean-powered musical magic in action.
 
-[![Demo](demo.gif)](https://youtube.com/shorts/VBPvxrhGiqQ)
+<div align="center">
+  <a href="https://youtube.com/shorts/VBPvxrhGiqQ">
+    <img src="demo.gif" alt="Demo" />
+  </a>
+</div>
 
 What started as a humble tie ended up as a masterpiece of revenge and holiday cheer. Here's what it does:
 
