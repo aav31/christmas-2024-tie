@@ -10,15 +10,15 @@ For Christmas 2024, the theme was ties, which my cousin foolishly thought would 
 
 ## 🦀 Introducing: The Christmas Crab Tie
 
+Want to hear it for yourself? Click the gif below to experience the crustacean-powered musical magic in action.
+
+[![Demo](demo.gif)](https://youtube.com/shorts/VBPvxrhGiqQ)
+
 What started as a humble tie ended up as a masterpiece of revenge and holiday cheer. Here's what it does:
 
-- Comes to life when you pull the tie - powered by a trusty pull-cord light switch (yes, the kind from your nan’s bathroom) wired into a 555 timer circuit
+- Comes to life when you pull the tie - the mechanism is a trusty pull-cord light switch (yes, the kind from your nan’s bathroom) wired into a 555 timer circuit
 - Pulling the tie triggers a quick blast of "Shiny" from Moana, complete with flashing lights for maximum theatrical horror
 - The timer limits the chaos to half a minute - which is just long enough to be annoying, and just short enough that people immediately want to pull it again
-
-Because nothing says "holiday spirit" like a crustacean-powered musical trap.
-
-![Demo video or GIF](demo.gif)
 
 ## 🛠️ Crab-a-tronics 101: Inside the Madness
 
