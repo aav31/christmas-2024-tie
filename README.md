@@ -29,7 +29,7 @@ What started as a humble tie ended up as a masterpiece of revenge and holiday ch
 ![Circuit](circuit.png)
 
 Okay, so it’s not exactly NASA-grade engineering - but somehow, against all odds, it works. And **not a microcontroller in sight**. Held together by hope, hot glue, and questionable decisions, here’s how this crab-powered contraption comes to life:
-- 🧰 **Mechanical Setup**: The electronics are housed inside a [3D-printed box](https://a360.co/3EqJN49), securely fastened to a rigid necklace. The tie itself is elastic and connected to a classic pull-cord light switch. When someone pulls the tie, the elastic stretches while the box stays put - this motion activates the switch without yanking everything off your neck.
+- 🧰 **Mechanical Setup**: The electronics are housed inside a [3D-printed box](https://a360.co/3EqJN49), securely fastened to a [rigid necklace](https://www.youtube.com/watch?v=8qjJ0G_fWSI). The tie itself is elastic and connected to a classic pull-cord light switch. When someone pulls the tie, the elastic stretches while the box stays put - this motion activates the switch without yanking everything off your neck.
 - ⚡ **Electronic Setup**: That pull grounds the trigger pin on a 555 timer IC (wired in monostable mode) and the trigger pin on a DFPlayer Mini. The timer’s output stays high for about 30 seconds, powering a set of LEDs. Meanwhile, the DFPlayer Mini kicks off its one-job performance.
 - ⏱️ **Timing Control**: The duration is set by the RC timing circuit; a $100k\Omega$ resistor and $220\mu F$ capacitor connected to the 555 timer. In this case, it's tuned to ~30 seconds of pure festive irritation.
 
